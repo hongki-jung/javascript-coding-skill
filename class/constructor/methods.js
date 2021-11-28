@@ -19,3 +19,4 @@ coupon.getPriceText();
 
 coupon.getExpirationMessage();
 // 이 쿠폰은 2주 후에 만료됩니다.
+
